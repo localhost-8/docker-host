@@ -1,0 +1,20 @@
+<script>
+function am12() {
+
+var date12 = new Date();
+var hours12 = date12.getHours() - (date12.getHours() >= 12 ? 12 : 0);
+var period = date12.getHours() >= 12 ? 'PM' : 'AM';
+var minutes12 = date12.getMinutes();
+var seconds12 = date12.getSeconds();
+if (minutes12 < 10) minutes12 = "0" + minutes12;
+if (seconds12 < 10) seconds12 = "0" + seconds12;
+
+document.getElementById("clock12").innerHTML = hours12 + ":" + minutes12 + ":"+ seconds12 +" " + period;
+setTimeout("am12()", 1000);
+}
+</script>
+
+<body>    
+  <div id="clock12"></div>
+  <script>am12();</script>
+</body>
