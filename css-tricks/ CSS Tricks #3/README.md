@@ -7,4 +7,4 @@ In this tutorial showing to you how to build a online text editor with javascrip
 # Screenshot
 Here we have project screenshot :
 
-![screenshot](https://raw.githubusercontent.com/AsmrProg-YT/100-days-of-javascript/master/Day%20%2302%20-%20Rich%20Text%20Editor/screenshot.jpg)
+![screenshot](css-tricks/ CSS Tricks #3/screenshot.jpg)
