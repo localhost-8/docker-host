@@ -1,7 +1,7 @@
-# Day #3
+# CSS Tricks #4
 
 ### Password Generator
-In this tutorial showing to you how to build a Password Generator with javascript. this pass generator also have different options to manage password creation❗️
+In this tutorial showing to you how to build a Password Generator with javascript. this pass generator also have different options to manage password creation!
 
 # Screenshot
 Here we have project screenshot :
