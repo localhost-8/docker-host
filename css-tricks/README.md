@@ -1,1 +1,1 @@
-A collection of CSS tricks for web developers (Ready to use codes). 
+**A collection of CSS tricks for web developers (Ready to use codes). **
