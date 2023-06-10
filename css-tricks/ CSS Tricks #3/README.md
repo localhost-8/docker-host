@@ -7,4 +7,4 @@ In this tutorial showing to you how to build a online text editor with javascrip
 # Screenshot
 Here we have project screenshot :
 
-![screenshot](css-tricks/ CSS Tricks #3/screenshot.jpg)
+![screenshot](screenshot.jpg)
