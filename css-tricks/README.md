@@ -1,8 +1,9 @@
 <h1> A collection of CSS tricks for web developers (Ready to use codes). </h1>
-
+<h2>
 Projects of JavaScript<br>
 Here we have list of projects:<br>
-<h2>
+</h2>
+
 02. Pixel Art Generator
 03. Rich Text Editor
 04. Password Generator
@@ -38,5 +39,3 @@ Here we have list of projects:<br>
 34. Pong Game
 35. Chrome Color Picker Extension
 36. ASCII Donut Animation
-
-</h2>
